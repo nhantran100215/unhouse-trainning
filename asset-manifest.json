@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/unhouse-trainning/static/css/main.b19ccee3.css",
-    "main.js": "/unhouse-trainning/static/js/main.ea6ba1a3.js",
+    "main.css": "/unhouse-trainning/static/css/main.4c4fcc58.css",
+    "main.js": "/unhouse-trainning/static/js/main.72bc1999.js",
     "static/media/Poppins-Regular.ttf": "/unhouse-trainning/static/media/Poppins-Regular.8081832fc5cfbf634aa6.ttf",
     "static/media/Poppins-Bold.ttf": "/unhouse-trainning/static/media/Poppins-Bold.404e299be26d78e66794.ttf",
     "static/media/login-bg.jpg": "/unhouse-trainning/static/media/login-bg.ce52ce7e2a2d5d6d680d.jpg",
     "index.html": "/unhouse-trainning/index.html",
-    "main.b19ccee3.css.map": "/unhouse-trainning/static/css/main.b19ccee3.css.map",
-    "main.ea6ba1a3.js.map": "/unhouse-trainning/static/js/main.ea6ba1a3.js.map"
+    "main.4c4fcc58.css.map": "/unhouse-trainning/static/css/main.4c4fcc58.css.map",
+    "main.72bc1999.js.map": "/unhouse-trainning/static/js/main.72bc1999.js.map"
   },
   "entrypoints": [
-    "static/css/main.b19ccee3.css",
-    "static/js/main.ea6ba1a3.js"
+    "static/css/main.4c4fcc58.css",
+    "static/js/main.72bc1999.js"
   ]
 }
